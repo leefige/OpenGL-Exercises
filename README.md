@@ -1,6 +1,18 @@
 # THU Computer Graphics OpenGL Tutorial Exercises
 
-Personal exercises of OpenGL Tutorials given in Computer Graphics course.
+Exercises of OpenGL Tutorials given in Computer Graphics course.
+
+## Build environment
+
+- Windows 10 64-bit
+- Visual Studio 2019 (x86_64)
+- OpenGL version 3.3 (Core Profile)
+- [GLFW](https://www.glfw.org/download.html)
+- [GLAD](https://glad.dav1d.de/)
+
+Please set `GLFW_HOME` and `GLAD_HOME` environment variables to their root dirs. Set the VC++ include path, library path, and the link additional dependencies (`glfw3.lib`).
+
+You also need to put `glad.c` into your project dir as this repo does.
 
 ## TOC
 
