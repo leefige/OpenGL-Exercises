@@ -18,5 +18,6 @@ You also need to put `glad.c` into your project dir as this repo does.
 
 - gl_1: Creating a window with GLFW; background color changes with time
 - gl_2: Draw a Hexagram with GLSL
+- gl_3_1: Draw a triangle with GLSL whose color changes with time (sin function)
 
 (TBC)
