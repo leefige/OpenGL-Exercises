@@ -6,6 +6,7 @@
 
 // output color
 out vec4 color;
+
 uniform vec4 ourColor;
 
 void main()
