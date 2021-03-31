@@ -9,6 +9,7 @@ Exercises of OpenGL Tutorials given in Computer Graphics course.
 - OpenGL version 3.3 (Core Profile)
 - [GLFW](https://www.glfw.org/download.html)
 - [GLAD](https://glad.dav1d.de/)
+- [GLM](https://github.com/g-truc/glm)
 
 Please set `GLFW_HOME` and `GLAD_HOME` environment variables to their root dirs. Set the VC++ include path, library path, and the link additional dependencies (`glfw3.lib`).
 
