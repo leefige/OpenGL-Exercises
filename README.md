@@ -24,5 +24,7 @@ You also need to put `glad.c` into your project dir as this repo does.
 - gl_3_3: Brand new `Shader` class for creating Shader Program from files
 - gl_4: Model, view and perspective matrices from GLM
 - gl_5: Camera system, keyboard & mouse control
+- gl_6_1: Text rendering
+- gl_7: Particle system (firework)
 
 (TBC)
